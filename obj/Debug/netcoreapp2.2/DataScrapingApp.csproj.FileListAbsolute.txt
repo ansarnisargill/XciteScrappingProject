@@ -1,0 +1,55 @@
+C:\Users\it\Desktop\DataScrapingApp\bin\Debug\netcoreapp2.2\DataScrapingApp.deps.json
+C:\Users\it\Desktop\DataScrapingApp\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.json
+C:\Users\it\Desktop\DataScrapingApp\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.dev.json
+C:\Users\it\Desktop\DataScrapingApp\bin\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DataScrapingApp\obj\Debug\netcoreapp2.2\DataScrapingApp.csprojAssemblyReference.cache
+C:\Users\it\Desktop\DataScrapingApp\obj\Debug\netcoreapp2.2\DataScrapingApp.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\DataScrapingApp\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\DataScrapingApp\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfo.cs
+C:\Users\it\Desktop\DataScrapingApp\bin\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DataScrapingApp\obj\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DataScrapingApp\obj\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DuSearchConsoleApp\bin\Debug\netcoreapp2.2\DataScrapingApp.deps.json
+C:\Users\it\Desktop\DuSearchConsoleApp\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.json
+C:\Users\it\Desktop\DuSearchConsoleApp\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.dev.json
+C:\Users\it\Desktop\DuSearchConsoleApp\bin\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DuSearchConsoleApp\bin\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DuSearchConsoleApp\obj\Debug\netcoreapp2.2\DataScrapingApp.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfo.cs
+C:\Users\it\Desktop\DuSearchConsoleApp\obj\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DuSearchConsoleApp\obj\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DuSearchConsoleApp\obj\Debug\netcoreapp2.2\DataScrapingApp.csprojAssemblyReference.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.deps.json
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.json
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.dev.json
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.csprojAssemblyReference.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfo.cs
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DuSearchConsoleApp\CNET Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.deps.json
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.json
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.dev.json
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.csproj.CoreCompileInputs.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfoInputs.cache
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfo.cs
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\it\Desktop\DuSearchConsoleApp\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.deps.json
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.json
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.runtimeconfig.dev.json
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\bin\Debug\netcoreapp2.2\DataScrapingApp.pdb
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.AssemblyInfo.cs
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.dll
+C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\obj\Debug\netcoreapp2.2\DataScrapingApp.pdb
