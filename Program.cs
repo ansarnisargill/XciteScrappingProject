@@ -19,7 +19,7 @@ namespace DataScrapingApp
             // {
             //     saveFile(db.data.ToList());
             // }
-            ReadExcelAndSave();
+            SaveData();
         }
         static void SaveData()
         {
@@ -33,7 +33,7 @@ namespace DataScrapingApp
 
                 //foreach (var item in list)
                 //{
-                obj.HtmlToListOfHouses(@"https://www.xcite.com.sa/phones/phone-accessories/cases-sleeves-backpacks.html");
+                //obj.HtmlToListOfHouses(@"https://www.xcite.com.sa/phones/phone-accessories/cases-sleeves-backpacks.html");
                 // using(var db=new BloggingContext())
                 // {
                 //     Console.ForegroundColor = ConsoleColor.Cyan;
@@ -41,6 +41,7 @@ namespace DataScrapingApp
                 //     Console.ForegroundColor = ConsoleColor.White;
                 // }
                 //}
+                obj.GetArabicData();
 
             }
 

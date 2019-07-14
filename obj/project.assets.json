@@ -6893,11 +6893,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Downloads\\DuSearchConsoleApp-master\\DuSearchConsoleApp-master\\XCITE Scrapping App\\DataScrapingApp.csproj",
+      "projectUniqueName": "c:\\Users\\Student\\Desktop\\XciteScrappingProject\\DataScrapingApp.csproj",
       "projectName": "DataScrapingApp",
-      "projectPath": "C:\\Users\\Student\\Downloads\\DuSearchConsoleApp-master\\DuSearchConsoleApp-master\\XCITE Scrapping App\\DataScrapingApp.csproj",
+      "projectPath": "c:\\Users\\Student\\Desktop\\XciteScrappingProject\\DataScrapingApp.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Downloads\\DuSearchConsoleApp-master\\DuSearchConsoleApp-master\\XCITE Scrapping App\\obj\\",
+      "outputPath": "c:\\Users\\Student\\Desktop\\XciteScrappingProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

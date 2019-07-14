@@ -13,7 +13,7 @@ namespace duproprioscrapingproject.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite(@"Data Source=C:\Users\Student\Downloads\DuSearchConsoleApp-master\DuSearchConsoleApp-master\XCITE Scrapping App\data.db");
+            optionsBuilder.UseSqlite(@"Data Source=C:\Users\Student\Desktop\XciteScrappingProject\data.db");
         }
     }
     public class Data
