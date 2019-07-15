@@ -99,9 +99,6 @@ namespace DataScrapingApp
         }
         public string UsingSelenium(string url)
         {
-
-
-
             var options = new ChromeOptions()
             {
                 BinaryLocation = @"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
@@ -152,9 +149,14 @@ namespace DataScrapingApp
                     try
                     {
 
+
                         var listOfItems = db.data.Where(x => x.IsVisited != true).Take(100).ToList();
                         foreach (var item in listOfItems)
                         {
+                            if (item.Link=="https://www.xcite.com.sa/.html")
+                            {
+                                continue;
+                            }
                             Console.ForegroundColor = ConsoleColor.Cyan;
                             var link = item.Link;
                             link = link.Replace("sa/", "sa/ar/");

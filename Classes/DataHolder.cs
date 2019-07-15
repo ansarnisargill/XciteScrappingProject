@@ -46,7 +46,7 @@ namespace DataScrapingApp.Classes
                     rng.Style.Font.Color.SetColor(Color.White);
                 }
 
-                using (FileStream fs = new FileStream(@"C:\Users\Student\Desktop\excel\xciteData" + NoOfList + ".xlsx", FileMode.Create))
+                using (FileStream fs = new FileStream(@"C:\Users\Student\Desktop\XciteScrappingProject\xciteArabicData" + NoOfList + ".xlsx", FileMode.Create))
                 {
                     pck.SaveAs(fs);
                 }
@@ -60,7 +60,7 @@ namespace DataScrapingApp.Classes
         }
         public static void Page_Load()
         {
-            var datatable = GetDataTableFromExcel(@"C:\Users\Student\Downloads\xciteData1.xlsx");
+            var datatable = GetDataTableFromExcel(@"C:\Users\Student\Desktop\XciteScrappingProject\xciteData1.xlsx");
             int i = 0;
 
             foreach (DataRow row in datatable.Rows)

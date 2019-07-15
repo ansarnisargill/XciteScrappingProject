@@ -15,11 +15,10 @@ namespace DataScrapingApp
         {
             Console.WriteLine("App has started!");
             //SaveData();
-            // using (var db = new BloggingContext())
-            // {
-            //     saveFile(db.data.ToList());
-            // }
-            SaveData();
+            using (var db = new BloggingContext())
+            {
+                saveFile(db.arabicData.ToList());
+            }
         }
         static void SaveData()
         {
@@ -47,7 +46,7 @@ namespace DataScrapingApp
 
 
         }
-        static void saveFile(List<Data> list)
+        static void saveFile(List<ArabicData> list)
         {
             DataHolder.ListToExcel(list);
         }
